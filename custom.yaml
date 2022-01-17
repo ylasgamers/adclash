@@ -1,0 +1,12 @@
+payload:
+- DOMAIN,analyticsengine.s3.amazonaws.com
+- DOMAIN,affiliationjs.s3.amazonaws.com
+- DOMAIN,advertising-api-eu.amazon.com
+- DOMAIN,app.bugsnag.com
+- DOMAIN,api.bugsnag.com
+- DOMAIN,browser.sentry-cdn.com
+- DOMAIN,app.getsentry.com
+- DOMAIN,ads.facebook.com
+- DOMAIN,advertising.twitter.com
+- DOMAIN,widgets.pinterest.com
+- DOMAIN,d.reddit.com
